@@ -47244,7 +47244,7 @@ A.t_.prototype={
 Jf(){this.ar(new A.WU(this))},
 L(a){var s,r=null
 this.a.toString
-s=A.a3Y("Flutter Demo Home Page",r)
+s=A.a3Y("memedu GmbH",r)
 return new A.ql(new A.nF(s,new A.Eg(r,r,1/0,56),r),A.Il(A.a8O(A.a([B.GK,A.a3Y(""+this.d,A.bf(a).RG.e)],t.F),B.AZ),r,r),A.a2x(B.xG,!1,this.gJe(),"Increment"),r)}}
 A.WU.prototype={
 $0(){++this.a.d},
@@ -50971,7 +50971,7 @@ B.FV=new A.m(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Fy=new A.m(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.GI=new A.cQ(B.Fi,B.Gr,B.Ga,B.E2,B.G2,B.Fb,B.Gv,B.Et,B.EV,B.FY,B.DY,B.Gc,B.G0,B.FV,B.Fy)
 B.GJ=new A.AH(1,"longestLine")
-B.GK=new A.mm("You have pushed the button this many times:",null,null,null,null)
+B.GK=new A.mm("Je \xf6fter Du dr\xfcckst umso d\xfcmmer kannst Du werden... lass das:",null,null,null,null)
 B.Jb=new A.Un(0,"system")
 B.GL=new A.qX(null)
 B.df=new A.AL(0,"clamp")
