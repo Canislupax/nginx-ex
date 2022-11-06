@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "1f9709f5c12b4944c157a01ab94ba7cf",
-"index.html": "d5ec6c85276ba231630b15bd19428420",
-"/": "d5ec6c85276ba231630b15bd19428420",
-"main.dart.js": "488874f767d1302b65ad8bcdad1008ec",
+"index.html": "42bd50933b30be806ad4e25110054b46",
+"/": "42bd50933b30be806ad4e25110054b46",
+"main.dart.js": "d179eb0f5287e747b1069168c40e3812",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,8 +14,9 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "2de67b94cd0d7c99f9814425f1f4b8f6",
+"assets/texture-blue-fonchik-simple-dark-colors-glow-background.jpg": "2327295572ca2b219e2514041570687f",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/NOTICES": "fb9e9695eff13a72ecc9316559bef51f",
+"assets/NOTICES": "0ae4f0fd9950d3257119391e722c081d",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "c4b2c94fb63a6a6f7399f6cdcd270388",
