@@ -61712,40 +61712,40 @@ O(a){return new A.uX(new A.EI(new A.XK(),null),!1,null)}}
 A.EI.prototype={
 O(a){return new A.ws(new A.pb(new A.Xv(this),null),B.cr,null)}}
 A.Xv.prototype={
-$2(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="images/Zeichenflaeche7.png",c="Aktuell k\xf6nnen nur ausgew\xe4hlte Tester die App nutzen.",b=a3.b,a=t.F,a0=A.pw(e,A.dS(e,A.Re(A.kX(A.a([A.fE("Features",A.fm(B.ae,24,B.n),e,e),B.eq,A.fE("Datenschutz",A.fm(B.ae,24,B.n),e,e),B.eq,A.fE("Hilfe",A.fm(B.ae,24,B.n),e,e)],a),B.a3,B.bW,B.ay),e,e),B.p,e,e,e,50,e,e,b),e,e,0,e,16,e),a1=A.hJ(8)
-a1=A.lc(B.b_,A.a([a0,A.pw(e,A.kX(A.a([A.dS(e,A.jb(d,B.aa,B.al,e),B.bg,e,e,new A.eN(e,e,e,a1,e,e,B.aF),50,e,e,50),B.vi,A.fE("memedu",A.fm(B.ae,28,B.aJ),e,e)],a),B.a3,B.b9,B.ay),e,e,0,e,16,e)],a),B.bA)
-a0=A.a([],a)
-s=a3.d
+$2(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="Aktuell k\xf6nnen nur ausgew\xe4hlte Tester die App nutzen.",c=a2.b,b=t.F,a=A.pw(e,A.dS(e,A.Re(A.kX(A.a([A.fE("Features",A.fm(B.ae,24,B.n),e,e),B.eq,A.fE("Datenschutz",A.fm(B.ae,24,B.n),e,e),B.eq,A.fE("Hilfe",A.fm(B.ae,24,B.n),e,e)],b),B.a3,B.bW,B.ay),e,e),B.p,e,e,e,50,e,e,c),e,e,0,e,16,e),a0=A.hJ(8)
+a0=A.lc(B.b_,A.a([a,A.pw(e,A.kX(A.a([A.dS(e,A.jb("images/Zeichenflaeche7.png",B.aa,B.al,e),B.bg,e,e,new A.eN(e,e,e,a0,e,e,B.aF),50,e,e,50),B.vi,A.fE("memedu",A.fm(B.ae,28,B.aJ),e,e)],b),B.a3,B.b9,B.ay),e,e,0,e,16,e)],b),B.bA)
+a=A.a([],b)
+s=a2.d
 r=s*0.4
 q=A.hJ(8)
-p=b*0.3
-q=A.pg(B.a4,!0,A.dS(e,A.lc(B.b_,A.a([new A.iX(B.aC,e,e,A.jb("assets/images/Web 1920 \u2013 2.png",B.aa,B.al,e),e),A.pw(e,A.dj(A.fE("Unsere App memedu hilft Dir in der medizinischen Aus- und Weiterbildung Unterricht anzubieten, daran teilzunehmen und dies vollst\xe4ndig digital zu dokumentieren.  \n",A.fm(B.ae,32,B.n),e,e),e,p),e,e,64,e,64,e)],a),B.bA),B.bg,e,e,new A.eN(B.cr,e,e,q,e,e,B.aF),r,e,e,1/0),B.p,e,0,e,e,e,e,e,B.bY)
-o=A.kX(A.a([A.ol(A.a([A.fE("Download",A.fm(B.ae,48,B.n),e,e),A.fE("memedu",A.fm(B.ae,48,B.n),e,e)],a),B.cs,B.b9),A.dj(e,e,b*0.5)],a),B.a3,B.bW,B.ay)
+p=c*0.3
+q=A.pg(B.a4,!0,A.dS(e,A.lc(B.b_,A.a([new A.iX(B.aC,e,e,A.jb("assets/images/Web 1920 \u2013 2.png",B.aa,B.al,e),e),A.pw(e,A.dj(A.fE("Unsere App memedu hilft Dir in der medizinischen Aus- und Weiterbildung Unterricht anzubieten, daran teilzunehmen und dies vollst\xe4ndig digital zu dokumentieren.  \n",A.fm(B.ae,32,B.n),e,e),e,p),e,e,64,e,64,e)],b),B.bA),B.bg,e,e,new A.eN(B.cr,e,e,q,e,e,B.aF),r,e,e,1/0),B.p,e,0,e,e,e,e,e,B.bY)
+o=A.kX(A.a([A.ol(A.a([A.fE("Download",A.fm(B.ae,48,B.n),e,e),A.fE("memedu",A.fm(B.ae,48,B.n),e,e)],b),B.cs,B.b9),A.dj(e,e,c*0.5)],b),B.a3,B.bW,B.ay)
 n=A.hJ(24)
-m=b/2*0.5
-n=A.E2(e,A.Ra(A.dS(e,A.ol(A.a([A.fE("Android",A.fm(B.i,32,B.aJ),e,e),A.dj(e,16,e),A.fE(c,A.fm(B.i,16,B.n),e,e),A.Uh(A.dj(e,e,e)),A.jb("assets/images/google-play-badge.png",B.aa,B.al,e)],a),B.a3,B.H_),B.p,e,B.l_,e,r,e,B.mh,m),e,B.cp,e,new A.cA(n,B.r)),B.aI,!1,e,e,e,e,e,e,e,e,e,e,new A.Xp(),e,e,e,e,e,e)
+m=c/2*0.5
+n=A.E2(e,A.Ra(A.dS(e,A.ol(A.a([A.fE("Android",A.fm(B.i,32,B.aJ),e,e),A.dj(e,16,e),A.fE(d,A.fm(B.i,16,B.n),e,e),A.Uh(A.dj(e,e,e)),A.jb("assets/images/google-play-badge.png",B.aa,B.al,e)],b),B.a3,B.H_),B.p,e,B.l_,e,r,e,B.mh,m),e,B.cp,e,new A.cA(n,B.r)),B.aI,!1,e,e,e,e,e,e,e,e,e,e,new A.Xp(),e,e,e,e,e,e)
 l=A.hJ(24)
 k=A.fE("iOS",A.fm(B.i,32,B.aJ),e,e)
 j=A.dj(e,16,e)
-i=A.fE(c,A.fm(B.i,16,B.n),e,e)
+i=A.fE(d,A.fm(B.i,16,B.n),e,e)
 h=A.Uh(A.dj(e,e,e))
 g=$.aly()
 $.afx().toString
 f=g.$1(B.vn)
-r=A.ahU(A.ahT(A.a([new A.fv(B.fm,q,e),A.dS(e,A.ol(A.a([o,B.Jr,A.kX(A.a([n,B.eq,A.E2(e,A.Ra(A.dS(e,A.ol(A.a([k,j,i,h,new A.xa(200,80,new A.Dw("assets/images/Download_on_the_App_Store_Badge_DE_RGB_wht_092917.svg",e,e,g,f,e,B.vn),"Acme Logo",e,e)],a),B.a3,B.b9),B.p,e,B.l_,e,r,e,B.mh,m),e,B.cp,e,new A.cA(l,B.r)),B.aI,!1,e,e,e,e,e,e,e,e,e,e,new A.Xq(),e,e,e,e,e,e)],a),B.a3,B.bW,B.ay)],a),B.cs,B.b9),B.p,B.Bm,e,e,e,e,B.Cs,e)],a)))
-p=A.kX(A.a([A.Uh(A.dj(e,e,e)),A.dj(A.fE("Du kannst mit wenigen klicks studierende, \xe4rztliches Personal in Aus- und Weiterbildung zur spontane Lehrsituation hinzurufen. Die Organisation und Dokumentation erledigt unsere App f\xfcr Dich.  \n",A.fm(B.ae,32,B.n),e,e),e,p)],a),B.a3,B.b9,B.ay)
-b=A.dj(e,e,b*0.1)
+r=A.ahU(A.ahT(A.a([new A.fv(B.fm,q,e),A.dS(e,A.ol(A.a([o,B.Jr,A.kX(A.a([n,B.eq,A.E2(e,A.Ra(A.dS(e,A.ol(A.a([k,j,i,h,new A.xa(200,80,new A.Dw("assets/images/Download_on_the_App_Store_Badge_DE_RGB_wht_092917.svg",e,e,g,f,e,B.vn),"Acme Logo",e,e)],b),B.a3,B.b9),B.p,e,B.l_,e,r,e,B.mh,m),e,B.cp,e,new A.cA(l,B.r)),B.aI,!1,e,e,e,e,e,e,e,e,e,e,new A.Xq(),e,e,e,e,e,e)],b),B.a3,B.bW,B.ay)],b),B.cs,B.b9),B.p,B.Bm,e,e,e,e,B.Cs,e)],b)))
+p=A.kX(A.a([A.Uh(A.dj(e,e,e)),A.dj(A.fE("Du kannst mit wenigen klicks studierende, \xe4rztliches Personal in Aus- und Weiterbildung zur spontane Lehrsituation hinzurufen. Die Organisation und Dokumentation erledigt unsere App f\xfcr Dich.  \n",A.fm(B.ae,32,B.n),e,e),e,p)],b),B.a3,B.b9,B.ay)
+c=A.dj(e,e,c*0.1)
 q=A.hJ(24)
 o=s*0.5
-q=A.Ra(A.dS(e,A.jb("images/iPhone14ProMax1.png",B.aa,B.al,o),B.p,B.cr,e,e,e,e,e,e),B.bg,B.cp,10,new A.cA(q,B.r))
+q=A.Ra(A.dS(e,A.jb("assets/images/iPhone14ProMax1.png",B.aa,B.al,o),B.p,B.cr,e,e,e,e,e,e),B.bg,B.cp,10,new A.cA(q,B.r))
 n=A.hJ(24)
-n=A.ol(A.a([p,A.Uh(A.kX(A.a([b,q,B.eq,A.Ra(A.dS(e,A.jb("images/iPhone14ProMax2.png",B.aa,B.al,o),B.p,B.cr,e,e,e,e,e,e),B.bg,B.cp,10,new A.cA(n,B.r))],a),B.a3,B.b9,B.ay))],a),B.cs,B.b9)
+n=A.ol(A.a([p,A.Uh(A.kX(A.a([c,q,B.eq,A.Ra(A.dS(e,A.jb("assets/images/iPhone14ProMax2.png",B.aa,B.al,o),B.p,B.cr,e,e,e,e,e,e),B.bg,B.cp,10,new A.cA(n,B.r))],b),B.a3,B.b9,B.ay))],b),B.cs,B.b9)
 o=A.hJ(8)
-o=A.a([new A.wZ(a0,new A.u2(new A.fv(B.fm,a1,e),e),2,B.cr,80,!0,e),r,new A.HA(new A.fv(B.Cv,n,e),!1,e),A.ahU(A.ahT(A.a([A.pg(B.a4,!0,A.dS(e,A.ol(A.a([A.kX(A.a([A.kX(A.a([A.dS(e,A.jb(d,B.aa,B.al,e),B.bg,e,e,new A.eN(e,e,e,o,e,e,B.aF),50,e,e,50),B.vi,A.fE("memedu GmbH",A.fm(B.i,24,B.aJ),e,e)],a),B.a3,B.bW,B.ay)],a),B.a3,B.bW,B.ay)],a),B.a3,B.bW),B.p,B.cp,e,e,264,e,e,1/0),B.p,e,5,e,e,e,e,e,B.bY)],a)))],a)
-b=!0
-b=b?B.w3:e
-a0=this.a
-return A.lc(B.b_,A.a([new A.Co(o,B.bc,!1,e,e,b,e,!1,e,0,e,e,B.aI,B.Is,e,B.a_,e),A.pw(0,A.ol(A.a([A.Ie(A.oR(B.ae,A.jb("images/memedu_icon_5x5_briefunmschlag_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xr(a0),e),"Kontakt",B.es),A.dj(e,8,e),A.Ie(A.oR(B.ae,A.jb("images/memedu_icon_5x5_gespenst_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xs(a0),e),"Bugreport und Feedback",B.es),A.dj(e,8,e),A.Ie(A.oR(B.ae,A.jb("images/memedu_icon_5x5_fragezeichen_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xt(a0),e),"Support",B.es),A.dj(e,8,e),A.Ie(A.oR(B.ae,A.jb("images/memedu_icon_5x5_schloss_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xu(a0),e),"E-mail an Datenschutz",B.es),A.dj(e,8,e),new A.fv(B.Cr,A.dS(e,e,B.p,A.aO(B.d.aC(127.5),48,65,96),e,e,s*0.02,e,e,4),e)],a),B.a3,B.GZ),e,e,16,e,e,e)],a),B.bA)},
+o=A.a([new A.wZ(a,new A.u2(new A.fv(B.fm,a0,e),e),2,B.cr,80,!0,e),r,new A.HA(new A.fv(B.Cv,n,e),!1,e),A.ahU(A.ahT(A.a([A.pg(B.a4,!0,A.dS(e,A.ol(A.a([A.kX(A.a([A.kX(A.a([A.dS(e,A.jb("assets/images/Zeichenflaeche7.png",B.aa,B.al,e),B.bg,e,e,new A.eN(e,e,e,o,e,e,B.aF),50,e,e,50),B.vi,A.fE("memedu GmbH",A.fm(B.i,24,B.aJ),e,e)],b),B.a3,B.bW,B.ay)],b),B.a3,B.bW,B.ay)],b),B.a3,B.bW),B.p,B.cp,e,e,264,e,e,1/0),B.p,e,5,e,e,e,e,e,B.bY)],b)))],b)
+c=!0
+c=c?B.w3:e
+a=this.a
+return A.lc(B.b_,A.a([new A.Co(o,B.bc,!1,e,e,c,e,!1,e,0,e,e,B.aI,B.Is,e,B.a_,e),A.pw(0,A.ol(A.a([A.Ie(A.oR(B.ae,A.jb("assets/images/memedu_icon_5x5_briefunmschlag_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xr(a),e),"Kontakt",B.es),A.dj(e,8,e),A.Ie(A.oR(B.ae,A.jb("assets/images/memedu_icon_5x5_gespenst_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xs(a),e),"Bugreport und Feedback",B.es),A.dj(e,8,e),A.Ie(A.oR(B.ae,A.jb("assets/images/memedu_icon_5x5_fragezeichen_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xt(a),e),"Support",B.es),A.dj(e,8,e),A.Ie(A.oR(B.ae,A.jb("assets/images/memedu_icon_5x5_schloss_blau_transparent_40x40.png",B.aa,B.al,e),24,new A.Xu(a),e),"E-mail an Datenschutz",B.es),A.dj(e,8,e),new A.fv(B.Cr,A.dS(e,e,B.p,A.aO(B.d.aC(127.5),48,65,96),e,e,s*0.02,e,e,4),e)],b),B.a3,B.GZ),e,e,16,e,e,e)],b),B.bA)},
 $S:366}
 A.Xp.prototype={
 $0(){var s=0,r=A.V(t.H)
