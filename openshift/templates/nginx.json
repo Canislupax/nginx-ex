@@ -59,6 +59,23 @@
       }
     },
     {
+      "kind": "Route",
+      "apiVersion": "route.openshift.io/v1",
+      "metadata": {
+        "name": "${NAME}",
+        "annotations": {
+          "template.openshift.io/expose-uri": "http://{.spec.host}{.spec.path}/privacy"
+        }
+      },
+      "spec": {
+        "host": "${APPLICATION_DOMAIN}",
+        "to": {
+          "kind": "Service",
+          "name": "${NAME}"
+        }
+      }
+    },
+    {
       "kind": "ImageStream",
       "apiVersion": "image.openshift.io/v1",
       "metadata": {
